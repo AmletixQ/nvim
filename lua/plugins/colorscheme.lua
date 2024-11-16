@@ -6,6 +6,11 @@ return {
     style = "storm",
     transparent = true,
     terminal_colors = true,
+    neotree = true,
+    styles = {
+       sidebars = "transparent",
+       floats = "transparent",
+    },
   },
 
   config = function(_, opts)
