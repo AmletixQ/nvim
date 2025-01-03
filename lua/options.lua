@@ -8,7 +8,7 @@ g.loaded_netrwPlugin = 1
 
 opt.clipboard = 'unnamedplus'
 opt.swapfile = false
-opt.completeopt = 'menuone,noinsert,noselect'
+-- opt.completeopt = 'menuone,noinsert,noselect'
 opt.number = true
 opt.showmatch = true
 opt.foldmethod = 'marker'
@@ -25,3 +25,4 @@ opt.expandtab = true
 opt.shiftwidth = 2
 opt.tabstop = 2
 opt.smartindent = true
+opt.scrolloff = 12

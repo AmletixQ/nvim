@@ -7,3 +7,5 @@ map("n", "<Tab>", ">>", opts)
 map("n", "<S-Tab>", "<<", opts)
 map("v", "<Tab>", ">gv", opts)
 map("v", "<S-Tab>", "<gv", opts)
+
+map("n", "<C-d>", "<C-d>zz")
